@@ -165,7 +165,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
                           const Text(
-                            'Breaking News!',
+                            'Breaking News',
                             style: TextStyle(
                                 fontSize: 16,
                                 color: Colors.white,
@@ -337,7 +337,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       const Text(
-                        'Trending News!',
+                        'Trending News',
                         style: TextStyle(
                             fontSize: 16,
                             fontWeight: FontWeight.w700,
